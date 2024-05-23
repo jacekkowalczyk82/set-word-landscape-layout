@@ -5,7 +5,7 @@
  * For more details on building Java & JVM projects, please refer to https://docs.gradle.org/8.6/userguide/building_java_projects.html in the Gradle documentation.
  */
 
-version = "0.1-20240522"
+version = "0.2-20240523"
 
 plugins {
     // Apply the application plugin to add support for building a CLI application in Java.
